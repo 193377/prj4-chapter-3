@@ -1,26 +1,33 @@
 
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 .index-h2 {
+	 background-image: url('background-image.jpg');
 	color: darkgreen;
 	background-color: lightgreen;
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	font-weight: bold;
+	font-size: 70px;
 	border: 2px solid green; 
 	}
 
 #introduction {
+	background-image: url('header-background.jpg');
 	color: black;
 	background-color: lightblue;
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
+	font-size: 30px;
 	border: 1px solid purple;
 	}
 
 .introduction {
+	background-image: url('header-background.jpg');
 	color: black;
 	background-color: lightblue;
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
+	font-size: 30px;
 	border: 1px solid purple;
 	}
 
@@ -28,7 +35,6 @@
 	color: purple;
 	font-family: 'Montserrat', sans-serif;
 	border: 1px solid purple;
-	padding: <one_size fits all>
 	padding: 10px;
 }
 
