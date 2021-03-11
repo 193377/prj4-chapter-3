@@ -1,7 +1,7 @@
 
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 .index-h2 {
-	 background-image: url('background-image.jpg');
+	 background-image: url('../images/background-image.jpg');
 	color: darkgreen;
 	background-color: lightgreen;
 	font-family: 'Montserrat', sans-serif;
@@ -10,25 +10,31 @@
 	font-size: 70px;
 	border: 2px solid green; 
 	}
+.index-image {
+	border: 1px solid purple;
+	margin: 10px 20px;
+}
 
 #introduction {
-	background-image: url('header-background.jpg');
+	background-image: url("../images/header-background.jpg");
 	color: black;
 	background-color: lightblue;
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
 	font-size: 30px;
 	border: 1px solid purple;
+	margin: 10px 20px;
 	}
 
 .introduction {
-	background-image: url('prj4-chapter-3/images/header-background.jpg');
+	background-image: url('../images/header-background.jpg');
 	color: black;
 	background-color: lightblue;
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
 	font-size: 30px;
 	border: 1px solid purple;
+	margin: 10px 20px;
 	}
 
 .index-container {
@@ -36,6 +42,7 @@
 	font-family: 'Montserrat', sans-serif;
 	border: 1px solid purple;
 	padding: 10px;
+	margin: 10px 20px;
 }
 
 
